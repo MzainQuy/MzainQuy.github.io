@@ -27,6 +27,12 @@ body {
     background: #0e1730;
 }
 
+.navbar-toggler,
+.collapsed {
+    border-radius: 12px;
+    border: none;
+}
+
 .navbar-nav .nav-item .nav-link {
     color: #9296a2;
 }
@@ -61,10 +67,6 @@ body {
 
 .home {
     margin-top: 130px;
-}
-
-.container-me {
-    /* padding: 20px; */
 }
 
 .container-me h3 {
